@@ -20,7 +20,7 @@ Building intelligent applications and scalable cloud solutions through Generativ
 ## 👩‍💻 About Me
 
 - 💼 AI & Cloud Software Engineer with 7+ years of experience across software development, full-stack engineering, cloud operations, data engineering, and AI application development.
-- 🎓 M.S. in Data Science | University of North Texas | GPA: 4.0/4.0.
+- 🎓 M.S. in Data Science | University of North Texas.
 - ☁️ AWS Certified Solutions Architect – Associate.
 - 🤖 Experienced in developing Generative AI applications, LLM-powered solutions, RAG pipelines, and agentic AI workflows.
 - 💻 Full-stack development with React.js, Angular, JavaScript, TypeScript, Python, FastAPI, and Flask.

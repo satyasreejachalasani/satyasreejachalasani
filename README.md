@@ -306,6 +306,7 @@ AI-powered fraudulent job detection system combining NLP, anomaly detection, and
 - Anomaly detection and feature engineering.
 - Explainable AI using SHAP.
 - Model evaluation using ROC-AUC, Precision, Recall, and F1-score.
+**Live Demo:** https://huggingface.co/spaces/ijih14/guardian-recruit
 
 ### 🤖 AI Data Analyst Agent – DataPilot
 
@@ -318,7 +319,6 @@ AI-powered data analysis application that automates analytical workflows and gen
 - Data visualization and analytical insights.
 - Model training and evaluation.
 - AI-generated narrative reports.
-
 
 
 ### 💜 LUMA 2.0 – AI-Powered Emotional Wellness Companion

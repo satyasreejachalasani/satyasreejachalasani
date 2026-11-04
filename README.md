@@ -36,7 +36,7 @@ Building intelligent applications and scalable cloud solutions through Generativ
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/kusuma-chalasani">
+<a href="www.linkedin.com/in/satya-sreeja-chalasani">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:satyasreejachalasani@gmail.com">

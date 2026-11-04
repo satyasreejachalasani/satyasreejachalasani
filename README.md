@@ -319,17 +319,6 @@ AI-powered data analysis application that automates analytical workflows and gen
 - Model training and evaluation.
 - AI-generated narrative reports.
 
-### 💼 Smart Internal Job Matcher – Intelli AI
-
-NLP-powered talent-matching platform using semantic similarity and sentence embeddings.
-
-**Technologies:** Python, Sentence-BERT, FAISS, NLP, PostgreSQL.
-
-### 📊 Real-Time Crime Data Streaming
-
-Data engineering and analytics pipeline built using Google Cloud.
-
-**Technologies:** Python, PySpark, Google Cloud Dataproc, GCP.
 
 ### 💜 LUMA – AI-Powered Wellness Application
 
@@ -337,11 +326,6 @@ Full-stack AI application powered by Google Gemini.
 
 **Technologies:** React, TypeScript, Flask, Google Gemini API, Tailwind CSS.
 
-### 📚 RAG-Based AI Interview Prep Assistant
-
-Document-based question-answering application using Retrieval-Augmented Generation.
-
-**Technologies:** Python, LangChain, ChromaDB, Sentence Transformers, Streamlit.
 
 ---
 

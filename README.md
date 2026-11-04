@@ -332,13 +332,9 @@ Full-stack AI application powered by Google Gemini.
 ## 🎓 Education
 
 ### Master of Science in Data Science
-
 **University of North Texas**
 
-GPA: **4.0 / 4.0**
-
 ### Bachelor's in Data Science & Data Analytics
-
 **Loyola Academy Degree & PG College**
 
 ---

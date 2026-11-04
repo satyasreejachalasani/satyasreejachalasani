@@ -320,12 +320,24 @@ AI-powered data analysis application that automates analytical workflows and gen
 - AI-generated narrative reports.
 
 
-### 💜 LUMA – AI-Powered Wellness Application
 
-Full-stack AI application powered by Google Gemini.
+### 💜 LUMA 2.0 – AI-Powered Emotional Wellness Companion
 
-**Technologies:** React, TypeScript, Flask, Google Gemini API, Tailwind CSS.
+A full-stack AI-powered emotional wellness application that combines conversational AI, emotion-aware interactions, mood visualization, and personalized mindfulness experiences.
 
+**Technologies:** React 19, TypeScript, Tailwind CSS, Google Gemini 2.5 Flash, IndexedDB, Recharts, Web Speech API.
+
+**Highlights**
+- AI-powered conversational companion with emotion-aware responses and tone analysis.
+- MoodCanvas for AI-generated artwork, emotional reflection, and mood visualization.
+- Personalized micro-coaching plans and context-aware conversation history.
+- Guided mindfulness, meditation, and breathing exercises.
+- Interactive analytics dashboard for mood trends, activity streaks, and wellness progress.
+- Voice input and output capabilities using the Web Speech API.
+- Local-first data persistence using IndexedDB.
+- User authentication, customizable preferences, and PIN-based privacy protection.
+
+**Live Demo:** https://luma-analytics.netlify.app/login
 
 ---
 

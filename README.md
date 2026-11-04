@@ -339,10 +339,15 @@ Full-stack AI application powered by Google Gemini.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity & Statistics
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyasreejachalasani&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=satyasreejachalasani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyasreejachalasani&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=satyasreejachalasani&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
